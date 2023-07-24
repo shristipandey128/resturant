@@ -1,3 +1,3 @@
 # Restro
 
-Complete Reactjs Resturant Website 
+Complete Resturant Website 
